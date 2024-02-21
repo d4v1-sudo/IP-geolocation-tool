@@ -1,4 +1,4 @@
-## IP Geolocation Tool
+## 🖥️ → 🔎 → 🗺️ - IP Geolocation Tool
 
 This Python script utilizes the MaxMind GeoIP2 database to retrieve geolocation information for a given IP address.
 
