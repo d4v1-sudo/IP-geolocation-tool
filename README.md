@@ -54,6 +54,9 @@ Google Maps: [Google Maps Link](https://www.google.com/maps/search/?api=1&query=
 ```
 pip install geoip2
 ```
+### Download all MaxMind database for mor data:
+
+[MaxMind GeoLite2 Database](https://github.com/P3TERX/GeoLite.mmdb)
 
 ### Disclaimer
 This script relies on third-party data provided by MaxMind. The accuracy of the geolocation information may vary.
