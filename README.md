@@ -61,4 +61,4 @@ pip install geoip2
 ### Disclaimer
 This script relies on third-party data provided by MaxMind. The accuracy of the geolocation information may vary.
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fd4v1-sudo%2FIP-geolocation-tool"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fd4v1-sudo%2FIP-geolocation-tool&labelColor=%23000000&countColor=%23FFFFFF" /></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fd4v1-sudo%2FIP-geolocation-tool"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fd4v1-sudo%2FIP-geolocation-tool&label=Thanks%20for%20dropping%20in&labelColor=%23000000&countColor=%23FFFFFF" /></a>
