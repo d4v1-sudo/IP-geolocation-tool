@@ -8,7 +8,7 @@ This Python script utilizes the MaxMind GeoIP2 database to retrieve geolocation 
 
 ### Usage
 1. Download
-    - Visit the GitHub repository page at [https://github.com/d4v1-sudo/geo-ip](https://github.com/d4v1-sudo/geo-ip.git).
+    - Visit the GitHub repository page at [https://github.com/d4v1-sudo/IP-geolocation-tool](https://github.com/d4v1-sudo/IP-geolocation-tool.git).
     - Click the "Code" button and select "Download ZIP" to download the repository as a ZIP file.
     - Extract the contents of the ZIP file to your local machine.
 
