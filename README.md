@@ -7,12 +7,16 @@ This Python script utilizes the MaxMind GeoIP2 database to retrieve geolocation 
 - MaxMind GeoLite2 City and ASN databases (`GeoLite2-City.mmdb`, `GeoLite2-ASN.mmdb`)
 
 ### Usage
-1. Download 
-1. Run the script on terminal (linux) or cmd (windows)
+1. Download
+    - Visit the GitHub repository page at [https://github.com/d4v1-sudo/geo-ip](https://github.com/d4v1-sudo/geo-ip.git).
+    - Click the "Code" button and select "Download ZIP" to download the repository as a ZIP file.
+    - Extract the contents of the ZIP file to your local machine.
+
+2. Run the script on terminal (linux) or cmd (windows)
     ```python3 geo-ip.py```
     or
     ```python3 all.py```
-2. Enter the IP address you want to look up when prompted.
+3. Enter the IP address you want to look up when prompted.
 
 ### Output
 The script will provide the following information if the IP address is found:
