@@ -62,7 +62,7 @@ Google Maps: [Google Maps Link](https://www.google.com/maps/search/?api=1&query=
 ```
 pip install geoip2
 ```
-### Download all MaxMind database for mor data:
+### Download all MaxMind database for more data:
 
 [MaxMind GeoLite2 Database](https://github.com/P3TERX/GeoLite.mmdb)
 
